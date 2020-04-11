@@ -3,5 +3,5 @@
 
 int main()
 {
- printf("test mianyuan");
+ printf("test bianyuan");
 }
